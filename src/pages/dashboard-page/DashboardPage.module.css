@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.profile {
+  margin-bottom: 24px;
+}
+
+.video {
+  width: 100%px;
+  max-height: 240px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
